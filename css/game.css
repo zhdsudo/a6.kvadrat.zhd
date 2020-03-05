@@ -1,0 +1,48 @@
+.game-field {
+  background-color: orange;
+  min-height: 10vh;
+  margin: 1px 1px 1px 1px;
+  line-height: 10vh;
+  border-radius: 10px;
+}
+
+.target {
+  background-color: green;
+  color: white;
+  font-size: 24pt;
+  text-align: center;
+}
+
+.count-hits {
+  background-color: green;
+  color: white;
+  min-height: 10vh;
+  font-size: 18pt;
+  text-align: center;
+  margin: 10px 1px 1px 1px;
+  line-height: 10vh;
+  border-radius: 10px;
+}
+
+.count-miss {
+  background-color: red;
+  color: white;
+  min-height: 10vh;
+   font-size: 18pt;
+  text-align: center;
+  margin: 10px 1px 1px 1px;
+  line-height: 10vh;
+  border-radius: 10px;
+}
+
+.miss {
+  background-color: red;
+}
+
+.btn-game{
+  margin-top: 10px;
+  margin-left: 1em;
+}
+#button-reload{
+  margin-right: 5em;
+}
